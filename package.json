@@ -5,10 +5,7 @@
 	"scripts": {
 		"build": "npx tsc"
 	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/jurijsk/dummy-two.git"
-	},
+	"repository": "https://github.com/jurijsk/dummy-two",
 	"author": "",
 	"license": "ISC",
 	"bugs": {
