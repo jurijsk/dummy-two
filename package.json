@@ -1,8 +1,8 @@
 {
 	"name": "jk-dummy-two",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"main": "dist/index.js",
-	"description": "change npmignore",
+	"description": "test dummy",
 	"scripts": {
 		"build": "npx tsc"
 	},
