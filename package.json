@@ -1,5 +1,5 @@
 {
-	"name": "@jurijsk/dummy-two",
+	"name": "dummy-two",
 	"version": "1.0.5",
 	"main": "dist/index.js",
 	"description": "change npmignore",
