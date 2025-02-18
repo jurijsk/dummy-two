@@ -15,5 +15,8 @@
 	"description": "",
 	"devDependencies": {
 		"typescript": "^5.7.3"
+	},
+	"dependencies": {
+		"@jurijsk/dummy": "github:jurijsk/dummy"
 	}
 }
